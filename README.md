@@ -1,2 +1,7 @@
 # MarsohodChassis
-FreeCAD 1.0 3D Model of Simple Marsohod chassis. Parts 3D printable.
+FreeCAD 1.0 3D Model of Simple Marsohod chassis.
+Parts 3D printable.
+
+Assembly of chassis is very easy.
+
+
