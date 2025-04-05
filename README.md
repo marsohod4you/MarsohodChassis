@@ -14,7 +14,4 @@ There are some project for this machinery:
 
 1) Drive Marsohod by IR-control https://marsohod.org/projects/proekt-ma3128/451-marshod-ir-control
 2) Beam-robot, drive over black line, https://marsohod.org/projects/proekt-ma3128/453-beam-robot
-
-
-
-
+3) Marsohod driven remotely from browser, Android phone on top of Marsohod works as Camera and Control device, https://marsohod.org/projects/marsohod3gw-prj/454-android-marsohod-control
