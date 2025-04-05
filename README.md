@@ -13,6 +13,7 @@ After assembly You get Marsohod BOT:
 There are some project for this machinery:
 
 1) Drive Marsohod by IR-control https://marsohod.org/projects/proekt-ma3128/451-marshod-ir-control
+2) Beam-robot, drive over black line, https://marsohod.org/projects/proekt-ma3128/453-beam-robot
 
 
 
